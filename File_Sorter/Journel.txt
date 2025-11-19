@@ -1,0 +1,23 @@
+Today 13/11/2025:
+I just got started on a new project for project based learning like two days ago and today i am seeing real progress.
+Today I fixed everything in the code
+
+To do list for 14/11/2025:
+--Fix the bus where only one file loads at a time
+--And i think that is IT...!!
+
+Today 14/11/2025:
+I tried to fix the for loop problema and realised that i need so append the files to a list as a dict in order to loop over them all, the problem with the previous code was that it was re-iterating or rewriting everything as the iteration went on. Now I have really solved the bug and came up with the raw structure of the File Sorter.
+
+To do list for 15/11/2025:
+--Leave comments on every code explaining what it does.
+
+Today 15/11/2025:
+In the morning I left comments on half of the code, pushed the code into the main File-Sorter python file instead of test.py. I also deleted testtest.py which was used to test the code of the test.py file.
+
+Today 18/11/2025:
+Three days break and finally back programming, just doing light tasks today. Moved the miscellanious folder thing into the else statement, commented on every code, and that is it.
+
+To do list for 19/11/2025:
+Nothing, the project is done HOORAYY.....!!!
+Time for a new project.
